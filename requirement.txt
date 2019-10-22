@@ -1,0 +1,6 @@
+#mayaavi-foranimation
+pip install vtk
+pip install PyQt5
+pip install mayavi
+#moviepy installation
+pip install moviepy
